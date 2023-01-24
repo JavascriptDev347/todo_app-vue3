@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "play gloomhaven",
+      "isFav": true
+    },
+    {
+      "title": "salo",
+      "isFav": true,
+      "id": 501292
+    },
+    {
+      "title": "sad",
+      "isFav": false,
+      "id": 884873
+    },
+    {
+      "title": "asd",
+      "isFav": false,
+      "id": 50116
+    },
+    {
+      "title": "asf",
+      "isFav": false,
+      "id": 321139
+    },
+    {
+      "title": "asf",
+      "isFav": false,
+      "id": 394086
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 <template>
+  <h1>Salom Pinia</h1>
   <router-view/>
 </template>
 
